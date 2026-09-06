@@ -1,0 +1,9 @@
+# Never commit real patient data
+*.csv
+!lab_results.csv
+
+# Python junk files
+__pycache__/
+*.pyc
+*.fasta
+*.fastq
